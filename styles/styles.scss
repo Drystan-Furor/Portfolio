@@ -37,7 +37,7 @@
 
 body {
     background-color: var(--color-primary);
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Code Pro', monospace;
     font-size: 1.1rem;
     color: var(--color-white);
     transition: all .4s ease-in-out;
@@ -703,6 +703,22 @@ section {
             font-size: 6.3rem;
         }
     }
+}
+
+.map {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    border: 2px solid #fff;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.map iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
 }
 
 @import './media';
