@@ -438,27 +438,27 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-    width: 90%;
+    width: 91%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-    width: 95%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .bootstrap {
+    width: 94%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-    width: 35%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .maven {
+    width: 73%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
-    width: 25%;
+    width: 87%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .php {
+.about-stats .progress-bars .progress-bar .progress-con .progress .ruby {
     width: 90%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .go {
-    width: 33%;
+    width: 66%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
